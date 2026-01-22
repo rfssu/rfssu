@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=300&section=header&text=RAFI%20SAIFULLAH&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&desc=Creative%20Engineer%20%7C%20Next.js%20%26%20Laravel&descAlign=50&descSize=20" alt="Rafi Header" width="100%" />
-</div>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
