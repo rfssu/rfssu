@@ -4,23 +4,22 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=FULL-STACK+DEVELOPER;NEXT.JS+%26+LARAVEL+SPECIALIST;CREATIVE+ENGINEER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=FULL-STACK+DEVELOPER;NEXT.JS+%26+LARAVEL+SPECIALIST;CREATIVE+DESIGNER" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  I engineer seamless digital experiences where <b>robust logic</b> meets <b>cinematic design</b>.<br/>
-  Currently architecting scalable ecosystems using the <b>TALL stack</b> and <b>Next.js</b>.
+  I'm a developer who creates digital product and like to exploring all technologies especially new generation tech, still learning to up my skills until now.
 </p>
 
 <div align="center">
   <a href="https://rfprojects.vercel.app/"><strong>🌐 VIEW PORTFOLIO</strong></a> • 
-  <a href="mailto:your.email@example.com"><strong>📧 CONTACT ME</strong></a>
+  <a href="mailto:rafi.ss.utama@gmail.com"><strong>📧 CONTACT ME</strong></a>
 </div>
 
 <br/>
 
-<h3 align="center">⚡ ARSENAL</h3>
+<h3 align="center">⚡ My Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,laravel,ts,react,tailwind,php,go,docker,postgres,redis,linux,figma,git&perline=7&theme=dark" />
