@@ -35,11 +35,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/rfssu/rfssu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rfssu/rfssu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rfssu/rfssu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rfssu/rfssu/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rfssu&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
-</div>
