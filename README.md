@@ -27,7 +27,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfssu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=6366F1&icon_color=ffffff&text_color=94a3b8" height="180" alt="Rafi's Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfssu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=6366F1&text_color=94a3b8&hide=html,css" height="180" alt="Top Languages" />
 </div>
