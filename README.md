@@ -41,19 +41,17 @@ The supporting tech I use to handle databases, design interfaces, and deploy app
 </div>
 
 ---
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfssu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=6366F1&text_color=94a3b8&hide=html,css" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rfssu/rfssu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rfssu/rfssu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rfssu/rfssu/output/github-contribution-grid-snake.svg">
+    <img 
+      src="https://raw.githubusercontent.com/rfssu/rfssu/output/github-contribution-grid-snake.svg" 
+      alt="GitHub contribution grid snake animation" 
+      width="100%" 
+      max-width="850" 
+      loading="lazy" 
+      decoding="async"
+    />
   </picture>
 </div>
